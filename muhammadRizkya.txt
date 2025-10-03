@@ -29,9 +29,21 @@ Akun Media Sosial:
 Pendidikan Sebelumnya
 
 Nama Sekolah: [SMKS ASSUYYUTHIYYAH]
-
 Jurusan (TKJ): [Teknik Komputer dan Jaringan]
-
 Tahun Masuk – Tahun Lulus: [...] – [...]
-
 Prestasi: [...]
+/*
+Pengalaman Sebelumnya
+
+Nama Perusahaan: [Nama Perusahaan/Organisasi]
+Jabatan: [Posisi/Jabatan yang dipegang]
+Tahun: [Tahun Bekerja]
+Deskripsi Pekerjaan:
+[Deskripsi pekerjaan yang dilakukan, proyek, pencapaian, dll.]
+*/
+Minat & Hobi
+
+Minat Pribadi:
+[seni menggambar/melukis dasar, membuat sebuah project pribadi yang memuaskan di bidang teknologi, menguasai ilmu matematika, logika, ingin mempelajari pola-pola]
+Hobi:
+[Melihat, Mendengar, Traveling, Musik, Membaca]
