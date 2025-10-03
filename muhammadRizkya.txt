@@ -1,3 +1,27 @@
-nama	: muhammad rizkya nasti firmansyah
-kelas	: IF-B
-npm	: 520124054
+Biodata Pribadi
+
+Nama Lengkap:
+[Muhammad rizkya nasti firmansyah]
+Nama Panggilan:
+[Jujun]
+
+Tanggal Lahir:
+[26-05-2006]
+Tempat Lahir:
+[kabupaten Cianjur]
+
+Jenis Kelamin:
+[Laki-laki/Tidak Perempuan]
+Status:
+[Belum Sukses, Status ini sedang dalam tahap perbaikan]
+Alamat:
+[Kec.Cianjur, Kab.Cilaku, Kp.Ciajag 3]
+
+Nomor Telepon:
+[08XX-XXXX-XXX]
+
+Email:
+[rizkyanfkan@gmail.com]
+
+Akun Media Sosial:
+[Instagram : muhammad_rizkya_n_f, Facebook : AnonymousUser1457]
